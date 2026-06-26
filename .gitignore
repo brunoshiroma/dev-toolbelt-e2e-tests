@@ -1,0 +1,29 @@
+# Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+
+# Build
+dist/
+build/
