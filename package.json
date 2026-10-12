@@ -21,7 +21,6 @@
   "author": "brunoshiroma",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^16.1.1",
-    "cypress-axe": "^1.2.3"
+    "cypress": "^16.1.1"
   }
 }
